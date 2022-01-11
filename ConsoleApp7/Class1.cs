@@ -12,7 +12,7 @@ namespace ConsoleApp7
     public class Bot
     {
         TwitchClient client = new TwitchClient();
-        ConnectionCredentials credentials = new ConnectionCredentials("setprotected", "oauth:n5gtshnuv06iv2gcpc4md7zfmim5su");
+        ConnectionCredentials credentials = new ConnectionCredentials("setprotected", "SECRET CODE TWITH (свой надо вставить я его удалил)");
         private int Tikuta = 0;
 
 
